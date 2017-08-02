@@ -6,7 +6,6 @@ import javax.validation.constraints.Size;
 
 public class Greeting {
 
-
     @NotNull
     @Min(1)
     private long id;
